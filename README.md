@@ -7,6 +7,6 @@ To use this package, install the devtools package from CRAN and run:
 	library(devtools)
 	install_github('paulajgriffin/mapggm')
 
-For the simulation pipeline files and TCGA data used in this paper, please see <https://github.com/paulajgriffin/mapggm_supplemental>.
+For the simulation pipeline files and TCGA data used in this paper, please see <https://github.com/KolaczykResearch/mapggm_supplemental>.
 
 
